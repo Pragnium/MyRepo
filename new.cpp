@@ -12,7 +12,7 @@ public:
 };
 
 int main(){
-    printf("HEllo dosto hum sikh rahe h git version control.\n");
+    printf("Hello dosto hum sikh rahe h git version control.\n");
     Git V2;
     V2.getter();
     return 0;
